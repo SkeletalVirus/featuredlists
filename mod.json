@@ -6,6 +6,7 @@
 	"name": "Featured Lists",
 	"developer": "SkeletalVirus",
 	"description": "Adds a button to your profile that opens a predetermined list",
+	"repository": "https://github.com/SkeletalVirus/featuredlists",
 	"settings": {
 		"list_id": {
 			"name": "List ID",
